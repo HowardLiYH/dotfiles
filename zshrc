@@ -70,3 +70,5 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+export PATH=/opt/homebrew/bin:$PATH
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/yuhaoli/Documents/credentials/le-wagon-data-1165-8a15523c58b0.json
